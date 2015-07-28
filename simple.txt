@@ -1,0 +1,9 @@
+1. Go to http://github.com/jun14/git_demo
+
+2. On the top right click fork button.(The GitHub repo copy to my GitHub)
+
+3. Make some changes: Add a css style sheet to change the index.html background color to black.
+
+4. Add and commit the change to local repo. 
+
+4.
