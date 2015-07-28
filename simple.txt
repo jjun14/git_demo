@@ -1,0 +1,7 @@
+1. clone the GitHub URL
+	a. navigate to the folder you want to work with.
+	b. git clone http://github.com/jun14/git_demo
+
+2. Make some changes: Add a css style sheet to change the index.html background color to black.
+
+3.
