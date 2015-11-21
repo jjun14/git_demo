@@ -1,8 +1,0 @@
-—went to link-
--clicked fork button-
--copied url-
-git clone <url>
-cd git_demo
--copied original url-
-git remote add upstream <url>
-git remote -v (to check that it worked)
