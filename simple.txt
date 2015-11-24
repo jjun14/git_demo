@@ -1,0 +1,5 @@
+went to https://github.com/jjun14/git_demo and forked repo
+cloned repo to local computer
+add and commit changes
+git push changes forked repo
+submitted pull request
