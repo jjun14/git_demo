@@ -1,0 +1,4 @@
+1. go to https://github.com/jjun14/git_demo and fork it
+2. clone the fork to ~xinyang/github/git_demo
+3. make changes to git_demo_index.html and commit changes to github
+4. go to https://github.com/xinyzhang9/git_demo/pulls to make a new pull request
