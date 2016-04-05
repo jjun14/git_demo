@@ -1,0 +1,8 @@
+Updated
+
+HTML
+- added lang=“en”
+- added meta charset=“UTF-8”
+- updated title
+- added div
+- added p (name, GitHub user name, favorite coding language)
