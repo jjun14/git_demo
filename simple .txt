@@ -1,0 +1,6 @@
+1. forked a repository from github.
+2. cloned it to my local repository
+3. added some changes and wrote about myself.
+4. commited my changes and puhsed it back to origin master
+5. send a pull request
+6. wrote a txt file.
