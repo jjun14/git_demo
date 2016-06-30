@@ -1,0 +1,7 @@
+created my fork on GitHub website
+cloned to my local repo
+git remote add origin https
+made changes to demo_index.html
+git add .
+git commit
+on GitHub sent pull request
