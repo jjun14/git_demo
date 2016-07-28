@@ -1,0 +1,9 @@
+step 1 follow the link
+step 2 click the fork link to download the file
+step 3 clone the file into own remote depository
+step 4 find the file in bash
+step 5 edit file
+step 6 return to jjun14/git_demo and open pull request
+step 7 upload the file and complete pull request
+
+! I couldn’t get the link to connect the my local and remote repositories for that file so I ended up using the GUI for a lot of it, unfortunately.
