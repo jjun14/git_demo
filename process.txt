@@ -1,0 +1,12 @@
+1. Enter URL to access repository.
+2. Click fork.
+3. Terminal
+	a. create repository (git init)
+	b. git commit -m "inital commit"
+	c. git remote add origin https://github.com/sbraaten95/git_demo
+	d. git pull origin master
+4. Edit demo_index.html
+5. Terminal
+	a. git add demo_index.html
+	b. git commit -m "add info"
+	c. git push origin master
