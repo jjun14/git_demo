@@ -1,0 +1,10 @@
+Simple.txt for the forking assignment (Update & Commit)
+
+I went to github and cloned the repo in question.
+I copied the URL from the now cloned repo.
+
+I created a folder on my local machine and then used git clone https://github.com/DenverRenGuy/git_demo.git
+
+Opened the html file in the atom.  Made the requested changes.
+
+Committed things to local and github.
