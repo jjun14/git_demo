@@ -1,0 +1,12 @@
+\\Fork project
+\\Went to provided address in browser and cloned
+\\Created new direcory in powershell for project, navigated to directory
+\\Cloned repo from web
+	git clone https://github.com/craj1031tx/git_demo
+\\made some changes to demo file
+\\Added changes to stage and committed them
+	git add .
+	git commit -m "made some changes!"
+\\Push local master branch to git_demo repo in cloud on personal account
+	git push origin master
+\\Went to website and navigated to pull requests, created a requeset to merge my one commit with jjun14's master branch. 
