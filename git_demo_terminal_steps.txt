@@ -1,0 +1,97 @@
+Last login: Wed Sep 28 12:10:50 on ttys000
+cleJohns-MacBook-Pro:~ johnpark$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Johns-MacBook-Pro:~ johnpark$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Johns-MacBook-Pro:~ johnpark$ cd desktop
+Johns-MacBook-Pro:desktop johnpark$ mkdir Update_Commit
+Johns-MacBook-Pro:desktop johnpark$ git init
+Initialized empty Git repository in /Users/johnpark/Desktop/.git/
+Johns-MacBook-Pro:desktop johnpark$ git clone https://github.com/johnpark3987/git_demo.git
+Cloning into 'git_demo'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 3
+Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+Johns-MacBook-Pro:desktop johnpark$ cd git_demo
+Johns-MacBook-Pro:git_demo johnpark$ git add .
+Johns-MacBook-Pro:git_demo johnpark$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   demo_index.html
+
+Johns-MacBook-Pro:git_demo johnpark$ git commit -m "demo_index editted"
+[master 7bff71c] demo_index editted
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+Johns-MacBook-Pro:git_demo johnpark$ git remote add https://github.com/johnpark3987/git_demo.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+Johns-MacBook-Pro:git_demo johnpark$ git remote add origin_1  https://github.com/johnpark3987/git_demo.git
+Johns-MacBook-Pro:git_demo johnpark$ git remote show
+origin
+origin_1
+Johns-MacBook-Pro:git_demo johnpark$ git push origin_1 master
+Counting objects: 3, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 416 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local objects.
+To https://github.com/johnpark3987/git_demo.git
+   199a72c..7bff71c  master -> master
+Johns-MacBook-Pro:git_demo johnpark$ 
