@@ -1,0 +1,9 @@
+Step 1: Navigated to the original GitHub repository
+Step 2: I created a local repository with the same name
+Step 3: I grabbed the fork link from the GitHub repository
+Step 4: I cloned *my* GitHub repository and opened it on my local machine
+Step 5: I made changes to the html document on my local machine
+Step 6: I staged the files then committed them on my local machine
+Step 7: I then pushed these changes to my GitHub repository
+Step 8: I made a pull request
+Step 9: I created this text document, then pushed it to my GitHub repository
