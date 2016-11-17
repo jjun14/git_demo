@@ -1,0 +1,1 @@
+After navigating to the demo repo, I forked it so that I had a version of it in my GitHub account. From there I created a clone on my local machine where I edited the .html file and commited it. From theer I pushed it tp my GitHub account. From my GitHub account I initiated a pull request to the original owner.
