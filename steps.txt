@@ -1,0 +1,23 @@
+The following are my cmd commands:
+
+mkdir A5
+cd a5
+git clone https://github.com/raymond-zhong/git_demo.git
+ls
+cd git_demo/
+ls
+subl demo_index.html
+ls
+git status
+git branch
+git add .
+ls
+commit -m 'made some changes to add information to demo_index.html'
+it origin
+git show origin
+git push origin master
+git pull master origin
+history
+
+went on jjun14/git_demo and clicked "New pull request" button
+clicked "Create pull request" button.
