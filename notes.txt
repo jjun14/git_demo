@@ -1,0 +1,26 @@
+1. Forked from jjun14/git_demo
+
+2. cloned it locally
+git clone git@github.com:shoredata/git_demo.git
+ls
+cd git_demo
+ls
+atom demo_index.html
+
+3. updated html file
+demo_index.html
+ls
+
+4. verified changes viewable in browser
+
+5. added, committed, pushed changes to my repo
+git status
+git add demo_index.html
+git commit ls
+git status
+git commit -m "added span to text to highlight section"
+git push
+
+6. created pull request to jjun14/git_demo
+
+7. confirmed that pull request counter went up from 491 to 492
