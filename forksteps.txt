@@ -1,0 +1,8 @@
+
+
+-Forked project using Github GUI button
+-Cloned project using Git
+-Made changes in VS Code
+-Add, Commit, Push
+-Pull request using Github Gui
+
