@@ -1,0 +1,11 @@
+Fork this repository from Github: https://github.com/jjun14/git_demo
+I forked the repo from this account and connected it to my GitHub profile
+
+Make some changes demo_index.html on your local copy!
+I made changes to the local files
+
+Commit and send a pull request.
+I commited the files on GitBash - git commit -m "update" and sent a pull request from my GiHub profile.
+
+Upload a simple .txt file that outlines the steps you took
+This is the text file that outlines the steps.
