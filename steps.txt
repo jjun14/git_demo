@@ -1,0 +1,5 @@
+used github interface to fork repo
+git clone to get a copy on my local machine
+made changes, git add, git commit
+git push my local changes to my fork
+used github interface to create pull request
