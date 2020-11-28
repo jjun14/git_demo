@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    margin: 15px;
+    font-size: 44px;
+    display: inline-block;
+}
+
+.texto {
+    color: white;
+    font-size: 38px;
+    margin: 13px;
+    display: inline-block;
+}
+
+.imagenes {
+    text-align: center;
+    display: inline-block;
+}
+
+img {
+    width: 732px;
+    height: 417px;
+    margin: 2px;
+    border-color: gray;
+    border-style: solid;
+    border-width: medium;
+    display: inline-block;
+}
