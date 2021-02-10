@@ -1,7 +1,8 @@
 Steps for ASS 5: Update and Commit
 
 Forked  the repo from GitHub
-Created a folder on my local machine to store the clone (this was unnecessary)
 Made changes to the demo_index.html file
+Used git add . To add the files
+Git status to see what I added
 Commit and send pull request 
 Uploaded the file
