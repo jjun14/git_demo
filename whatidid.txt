@@ -1,0 +1,10 @@
+What I did:
+
+1. I went to the link and then found the repository I wanted to fork.
+2. I went to the fork button and pushed it.
+3. Then I cloned the fork using the desktop Github.
+4. Then I went to the location of the fork in command line.
+5. I got into demo-index.html and used the esc i and esc :wp to make modifcations to the code in the file.
+6. After saving, I staged, committed and pushed the change to the github version online.
+7. Then I clicked the button to initialize a push request, and I wrote a nice rationale as to why the changes should be accepted. 
+8. According to Github, it has been noted that I want to merge my changes with the master. 
