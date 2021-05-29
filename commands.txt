@@ -1,0 +1,10 @@
+en github realizar el fork del repositorio
+//ya en el equipo local
+git clone https://github.com/Luiguau/git_demo
+cd git_demo
+git remote add upstream https://github.com/jjun14/git_demo
+nano demo_index.html
+git add demo_index.html
+git commit -m "modificando demo_index.html"
+//
+en github realizar la pull request
