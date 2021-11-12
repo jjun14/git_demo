@@ -1,0 +1,11 @@
+1. I first forked the GitHub repository that is found at: https://github.com/jjun14/git_demo.  This gave me my own copy of the repo that I could now clone.
+2. git clone https://github.com/juliansunn/git_demo.git
+    - This is the command to clone my own repo to a local repo that was previously forked.  Now I can make edits to my local repo
+3. Edited the demo_index.html file within my local repository
+4. git add demo_index.html 
+    - added demo_index.html to be committed
+5. git commit -m "made changes to demo_index.html"
+    - commited the changes to demo_index.html that were in the staging area.
+6. git push origin master
+    - this command pushed all committed changes back to my repo located on GitHub.com.
+7. On github.com, click on Pull requests and then select add Pull Request.  You are submitting your code to be merged with the main git_demo repository.
